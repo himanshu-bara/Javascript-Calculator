@@ -1,7 +1,7 @@
 
 # Simple Javascript Calculator
  A simple calculator using HTML, CSS &amp; Javascript
- This is a simple calculator functionality achieved using Javascript. The logic is very simple (you can also try it 😅) with the less lines of code possible .
+ This is a simple calculator functionality achieved using Javascript. The logic is very simple (you can also try it 😅) with the fewest lines of code possible.
 
 
 
@@ -16,6 +16,6 @@
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Simple-Javascript-Calculator/blob/master/LICENSE)
+[MIT]([https://github.com/web-codegrammer/Simple-Javascript-Calculator/blob/master/LICENSE](https://github.com/himanshu-bara/Javascript-Calculator/blob/main/LICE))
 
-Issued to ```Himanshu Barapatre``` | All Rights Reserved | 2020
+Issued to ```Himanshu Barapatre``` | All Rights Reserved | 2024
